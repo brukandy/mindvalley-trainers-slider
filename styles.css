@@ -79,6 +79,8 @@ body {
     overflow: hidden;
     cursor: pointer;
     transition: transform 0.3s ease;
+    display: block;
+    text-decoration: none;
 }
 
 .trainer-card:hover {
