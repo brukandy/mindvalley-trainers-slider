@@ -9,6 +9,9 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     background: #f8f9fa;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 /* Section Container */
@@ -19,8 +22,9 @@ body {
 }
 
 .container {
-    max-width: 1400px;
-    margin: 0 auto;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 /* Header Styles */
