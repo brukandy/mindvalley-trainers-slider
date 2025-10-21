@@ -43,6 +43,7 @@ body {
 }
 
 .section-title {
+    font-family: 'Cormorant Garamond', serif;
     font-size: 48px;
     font-weight: 700;
     color: #1a1a1a;
