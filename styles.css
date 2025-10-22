@@ -147,6 +147,10 @@ body {
         padding: 60px 0;
     }
 
+    .header-content {
+        padding: 0 20px;
+    }
+
     .section-title {
         font-size: 32px;
     }
@@ -175,6 +179,10 @@ body {
 }
 
 @media (max-width: 480px) {
+    .header-content {
+        padding: 0 16px;
+    }
+
     .section-title {
         font-size: 28px;
     }
